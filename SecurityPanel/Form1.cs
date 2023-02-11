@@ -14,7 +14,7 @@ namespace SecurityPanel
     public partial class Form1 : Form
     {
         string pass = "1234";
-        string path=@"E:\text.txt";
+        string path= @"E:\HOC\KI 4\.NET\SecurityPanel\SecurityPanel\assets\text.txt";
         public Form1()
         { 
             InitializeComponent();
